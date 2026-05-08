@@ -19,4 +19,6 @@ I finished it in two days.
 # the end .
 there is a copy of this text inside the floder Memory-Flash / 
 
-oh .... don't forget the code file in Memoty-Flash/src.
+oh .... don't forget the code file in Memory-Flash/src.
+# important 
+this version works only in liunx systems 

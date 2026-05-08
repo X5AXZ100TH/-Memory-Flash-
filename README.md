@@ -1,12 +1,19 @@
 # Memory Flash .
 
 This game tests Your speed of logical thinking (it's simple).My first project in (C).
+
 Built it with:
+
 1.raylib
+
 2.Standerd Libraries for (C),
+
 A.stdbool.h 
+
 B.stdlib.h
+
 C.time.h
+
 I finished it in two days.
 # gameplay 
 1. a random letter appears in front of you . for a sprcific time (it decreases as the level progress)

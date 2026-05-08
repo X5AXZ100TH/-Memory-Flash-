@@ -17,5 +17,6 @@ I finished it in two days.
 
 
 # the end .
-there is a copy of this text inside the floder Memory-Flash
+there is a copy of this text inside the floder Memory-Flash / 
+
 oh .... don't forget the code file in Memoty-Flash/src.
